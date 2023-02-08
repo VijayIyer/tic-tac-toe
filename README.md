@@ -1,1 +1,1 @@
-- This `![repository](https://github.com/VijayIyer/tic-tac-toe-backend)` acts as websocket (Flask SocketIO) backend for this app. 
+- This ![repository](https://github.com/VijayIyer/tic-tac-toe-backend) acts as websocket (Flask SocketIO) backend for this app. 
