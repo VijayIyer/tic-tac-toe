@@ -1,1 +1,2 @@
-- This ![repository](https://github.com/VijayIyer/tic-tac-toe-backend) acts as websocket (Flask SocketIO) backend for this app. 
+- The ![repository](https://github.com/VijayIyer/tic-tac-toe-backend) acts as websocket (Flask SocketIO) backend for this app. 
+- User 1 opens 1 window and User 2 opens 2nd windo - they can alternate turns and play the tic-tac-toe game
