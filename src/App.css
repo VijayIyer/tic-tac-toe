@@ -86,3 +86,9 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+.highlight{
+  border: green solid 5px;
+}
+.error{
+  color: red;
+}
